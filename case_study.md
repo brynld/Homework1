@@ -1,16 +1,15 @@
-# Homework1
 # Fintech Case Study
 
-## Overview and Origin
+### Overview and Origin
 
-* Ethos
+## Ethos
 
 * Ethos was founded in 2016 by Peter Colis and Lingke Wang. The founders realized that huge amounts of Americans are underinsured or unimformed about life insurance policies after one of the founders was oversold an unnecessary and expensive life insurance policy without fully understanding the cost and process. To date Ethos has raised $106.5 million of capital through three rounds of funding in Series A, B, and C investing led by venture capital firms consisting of Accel, Sequoia Capital, and Goldman Sachs, as well as funding from Stanford University, Downey Ventures, Arrive, and Smith Family Circle. 
 
 
 ## Business Activities:
 
-* Ethos is tackling the issue of life insurance. The typical life insurance application can take weeks to get approved and will usually require a medical exam. Additionally, a large amount of customers do not have the proper coverage they need for their specific situations. Ethos has streamlined the application process, taking it completely online and incorporating verification of self-reported data through medical and pharmacy records to allow approval in minutes, as well as experts available to assist in finding the right policy with a money-back guarantee. 
+Ethos is tackling the issue of life insurance. The typical life insurance application can take weeks to get approved and will usually require a medical exam. Additionally, a large amount of customers do not have the proper coverage they need for their specific situations. Ethos has streamlined the application process, taking it completely online and incorporating verification of self-reported data through medical and pharmacy records to allow approval in minutes, as well as experts available to assist in finding the right policy with a money-back guarantee. 
 
 The intended customer of Ethos is any adult seeking life insurance. Currently the life insurance and annuities industry is valued at $723.3 billion. 
 Ethos offers a fully online application that takes on average about 10 minutes with almost instant approval or rejection. Their process typically does not require a medical exam like the majority of their competitors, and is an exponentially faster approval processes than their more traditional competitors. 
@@ -45,7 +44,7 @@ Adding further coverage options would not require much more technology besides a
 I believe that this technology would be best for this situation because it would be the best way to give the customer value from their site. If they required the customer to input the quote comparison on their own, they are losing the value they give the customer by performing that work for them. 
 
 
-#Citations
+## Citations
 data on life insurance industry size: https://www.ibisworld.com/industry-statistics/market-size/life-insurance-annuities-united-states/
 competitors: https://millennialmoney.com/ethos-life-insurance-review/
 technologies: https://www.forbes.com/sites/donnafuscaldo/2019/08/27/life-insurance-startup-ethos-valued-at-more-than-400-million-after-series-c-raise/?sh=71f883c73e61
